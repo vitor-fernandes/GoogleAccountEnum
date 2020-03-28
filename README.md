@@ -2,6 +2,8 @@
 
 A tool to Enumerate Valid Accounts at Google.
 
+Be sure that you have Tor running at port 9050
+
 ## Run
 ```
 1. Clone this repo
